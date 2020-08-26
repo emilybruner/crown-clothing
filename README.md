@@ -24,7 +24,7 @@ Sass
 1. Navigate into the root directory and open index.html in your preferred browser, you can also run it on localhost if you like.
 
 ## Credits
-This project was inspired by a Udemy tutorial project by Andrei Neagoie titled Complete React Developer 2020.
+This application was inspired by a Udemy tutorial project by Andrei Neagoie titled Complete React Developer 2020.
 
 
 MIT © emilybruner
