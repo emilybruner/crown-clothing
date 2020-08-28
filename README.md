@@ -2,7 +2,7 @@
  **Crown clothing is a fully functional ecommerce clothing store.**
 
 ## Motivation
-This project was to explore using redux in an ecommerce platform and learn how to use Firebase as a backend and authentication method. I was interested in creating an online store so I could learn how to integrate stripe into a payment system. 
+This project was to explore using redux in an ecommerce platform and learn how to use Firebase as a backend and authentication method. I was interested in creating an online store so I could learn how to integrate stripe into a payment system. I wanted to utilize redux to manage state in a large application.
 
 ## Deployed Site
 http://crown-clothing-store-live.herokuapp.com/
